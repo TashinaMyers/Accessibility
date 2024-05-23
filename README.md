@@ -4,4 +4,4 @@ Making the existing code more accessible by pulling exsisiting code from the sou
 ![Screenshot 2024-05-18 164704](https://github.com/TashinaMyers/Accessibility/assets/167259806/d7a0bca8-d1d0-48f4-8e2e-4d1cd8774997)
 ![Screenshot 2024-05-18 164731](https://github.com/TashinaMyers/Accessibility/assets/167259806/afb8c187-3c62-4c65-97a3-74a22e02b398)
 
-http://127.0.0.1:5500/challenge-week-one/index.html#social-media-marketing
+https://tashinamyers.github.io/Accessibility/
